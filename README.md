@@ -34,6 +34,7 @@ Alternatively, you can use the following Gradle command:
 
 ```bash
 ./gradlew connectedAndroidTest
+```
 
 
 | ID | Flow         | Test Name                                      | Case                                   | Expected Result                       | Comments |
