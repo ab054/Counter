@@ -9,8 +9,8 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
 
 ## Getting Started
 
-<details>
-<summary>Project Structure</summary>
+```
+<project>
 └── uiTests
     ├── CommonTools.kt
     ├── PurchaseTest.kt
@@ -25,8 +25,8 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
         ├── LoginPage.kt
         ├── PurchasePage.kt
         └── ShowcasePage.kt
-</details>
-
+</project>
+```
 ### Prerequisites
 
 - Android Studio Arctic Fox | 2020.3.1 or newer
