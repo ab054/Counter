@@ -9,7 +9,23 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+<details>
+<summary>Project Structure</summary>
+└── uiTests
+    ├── CommonTools.kt
+    ├── PurchaseTest.kt
+    ├── UiTestBase.kt
+    ├── assets
+    │   └── TestUser.kt
+    └── pages
+        ├── AddressPage.kt
+        ├── BasePage.kt
+        ├── CartPage.kt
+        ├── ItemDetailsPage.kt
+        ├── LoginPage.kt
+        ├── PurchasePage.kt
+        └── ShowcasePage.kt
+</details>
 
 ### Prerequisites
 
