@@ -10,7 +10,7 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
 ## Getting Started
 
 ```
-project/
+
 └── uiTests
     ├── CommonTools.kt
     ├── PurchaseTest.kt
