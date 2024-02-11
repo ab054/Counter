@@ -10,7 +10,7 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
 ## Getting Started
 
 ```
-<project>
+project/
 └── uiTests
     ├── CommonTools.kt
     ├── PurchaseTest.kt
@@ -25,7 +25,7 @@ This project contains a suite of Espresso tests designed to test the [Name of Yo
         ├── LoginPage.kt
         ├── PurchasePage.kt
         └── ShowcasePage.kt
-</project>
+
 ```
 ### Prerequisites
 
