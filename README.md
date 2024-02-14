@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This project contains a suite of Espresso tests designed to test the [Name of Your App] Android application, developed with Jetpack Compose. The tests cover a range of user interactions and ensure the app's reliability and stability.
+This project contains a suite of Espresso tests designed to test the Android application, developed with Jetpack Compose. The tests cover a range of user interactions and ensure the app's reliability and stability.
 
 ## Getting Started
 
